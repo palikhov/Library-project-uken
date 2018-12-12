@@ -1,0 +1,29 @@
+site_name: Каталог v.0.1
+site_description: Каталог ресурсів та база знань команди проекту.
+site_author: Антон Паліхов aka Palant
+copyright: Сайт розроблено для Робочої групи Проекту впровадження ERP в ДП "НЕК "Укренерго" завдяки Кравченко Ю. та Згіблову А.
+repo_url: https://github.com/palikhov/project-erp-docs
+
+nav:
+    - Головна: index.md
+    - Статус: about.md
+    - Бібліотека проекту:
+        - Каталог інтернет посилань: library/links.md
+        - Каталог книг: library/ebooks.md
+    # - Sharepoint область: https://portal.ua.energy/sites/intranet/teamsites/erp/Documents/Forms/AllItems.aspx
+markdown_extensions:
+    - smarty
+    - abbr
+    - attr_list
+    - def_list
+    - fenced_code
+    - footnotes
+    - tables
+    - admonition
+    - meta
+    - wikilinks 
+    - toc:
+        permalink: True
+    - sane_lists
+    - pymdownx.tasklist
+theme: yeti
