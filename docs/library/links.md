@@ -11,11 +11,11 @@ date: 2018-12-12
 
 *Якщо ви хочете прокоментувати будь-який з наявних тут ресурcів, чи порекомендувати інший ресурс - звертайтесь до Паліхова А.*
 
-## Сайти
+# Сайти
 
 [Microsoft Dynamics AX (ОФІЦІЙНИЙ САЙТ)](http://www.microsoft.com/Rus/dynamics/ax/overview.mspx)
 
-[Microsoft Dynamics PartnerSource Russia](https://mbs.microsoft.com/partnersource/worldwide/russia) 
+[Microsoft Dynamics Partner Source Russia](https://mbs.microsoft.com/partnersource/worldwide/russia) 
 
 [Microsoft Dynamics AX Developer Center](http://msdn.microsoft.com/ru-ru/dynamics/ax/bb453258)
 
@@ -23,18 +23,18 @@ date: 2018-12-12
 
 [Microsoft Dynamics AX (Axapta) на Mazzy.ru](http://www.axapta.mazzy.ru/)
  
-## Сертифікация 
+# Сертифікация 
 
 [Microsoft Certification](http://www.microsoft.com/learning/en/us/certification/cert-default.aspx)
 
-[Microsoft Certified Professional]()(https://www.microsoft.com/learning/members/en/us/mcp/mcp-default.aspx) 
+[Microsoft Certified Professional](https://www.microsoft.com/learning/members/en/us/mcp/mcp-default.aspx) 
 
 [Просмотр перечня сданных экзаменов для MCP-специалиста](https://mcp.microsoft.com/authenticate/validatemcp.aspx)
 
 
-## Документація
+# Документація
 
-[Getting Started with Microsoft Dynamics AX 2012](http://msdn.microsoft.com/ru-ru/aa886351) - Початок розробки під Microsoft Dynamics AX 
+[Getting Started with Microsoft Dynamics AX 2012](http://msdn.microsoft.com/ru-ru/aa886351) - Початок розробки з Microsoft Dynamics AX 
 
 [Microsoft Dynamics AX MSDN library](http://msdn.microsoft.com/en-us/library/aa155304.aspx) - розділ MS Dynamics AX в MSDN бібліотеці
 
@@ -42,37 +42,47 @@ date: 2018-12-12
 
 [Best Practices for Microsoft Dynamics AX Development](http://msdn.microsoft.com/en-us/library/aa658028(v=AX.10).aspx) - блог по MS Dynamics AX у мене на disk D
 
-## Форуми
+# Форуми
 
-[AXForum.info](http://axforum.info/) - російськомовний форум по MS Dynamics AX
+[Dynamics 365 for Finance and Operations/AX User Groups](https://dynamicsuser.net/ax/)  - Англомовний форум призначений як для користувачів системи, так й для розробників та членів проектної команди.
+
+[AXForum.info](http://axforum.info/) - великий російськомовний форум присвячений MS Dynamics AX
 
 [AXForum.info (offline версия)](http://axforum.info/forums/showthread.php?t=5883) - російськомовний форум по MS Dynamics AX (версія для перегляду офлайн)
 
-[Microsoft Dynamics AX Forum](http://dynamicsuser.net/forums/axapta.aspx) 
+
 
 [Microsoft Dynamics AX Community](http://www.microsoft.com/Rus/dynamics/professionals/community.mspx)
 
 [Microsoft Dynamics AX/NAV/CRM Russia](http://social.technet.microsoft.com/forums/ru-RU/dynamicsru/threads/)
  
-## Блоги
+# Блоги
   
 [Dynamics AX tools and tutorials](http://kashperuk.blogspot.com/) - блог Івана Кашперук по MS Dynamics AX
   
 [AXCoder](http://axcoder.blogspot.com/) - блог Максима Белугіна про програмування для MS Dynamics AX
+
+[AXCoder на Github](https://axcoder.github.io/)
  
 [Investigating DAX (Денис Федотенко)](пhttp://fedotenko.info/) - блог Дениса Федотенка по MS Dynamics AX
  
 [mfp's two cent](http://blogs.msdn.com/b/mfp/) - блог на англійській мові по розробці для MS Dynamics AX 
 
 [Inside Microsoft Dynamics AX](http://blogs.msdn.com/b/dax/) -груповий блог команди продукту Microsoft Dynamics AX
+
+За словами автора блогу він має інструменти корисні при роботі та програмуванні в системі [Microsoft Dynamics AX - Полезное](http://earlionakru.blogspot.com/)
  
-## Відео-канали 
+# Відео-канали 
 
 [Microsoft ERP@Russia](http://www.youtube.com/user/MBS2017)
 
 [Microsoft Dynamics ERP](http://www.youtube.com/user/MicrosoftDynamicsERP)
 
-## IDE Extensions
+Відео канал російського інтегратора АМАНД з величезною кількістю записів але нажаль в основному по 2009 версії - [Amandorg YouTube](https://www.youtube.com/user/AMANDorg)
+
+https://blogs.msdn.microsoft.com/crm/
+
+# IDE Extensions
 
 [AxCreateNewProject](http://www.axaptapedia.com/AxCreateNewProject) - засіб, що значно прискорює створення проектів. Це можнор зробити фактично за дві кліки
 
@@ -89,7 +99,7 @@ date: 2018-12-12
 [SysExportDialog]() - продовження системних форм, що додає тип об'єкту в експортоване ім'я файлу. 
 [Editor_scripts_OpenOverriddenMethodDef]() - Скрипт редактора дозволив би  перехід до зановоо визначеного методу декларування классу в залежносты від класу.
 
-## [Плагіни]()
+# Плагіни
 
 [EV_TabaxPlugin_OpenInAOT]() - швидкий доступ до об'єктів AOT
 
@@ -97,7 +107,7 @@ date: 2018-12-12
 
 [DEV_TabaxPlugin_RecentWindows]() - повторно відкрити одне із попередньо зачинених вікон. 
 
-## Статті 
+# Статті 
 
 [Tutorial_Form_Dynalink]() - Невеликий навчальний матеріал по динамічним зв'язкам в MS Dynamics AX
 
@@ -113,7 +123,9 @@ date: 2018-12-12
 
 [SysMultiTableLookup class]() - розширена версія класу SysTableLookup
 
-## Книжки 
+[Developing a Product Approval Workflow in Dynamics AX 2012](https://extendingdynamicsax.com/2013/11/06/developing-a-product-approval-workflow-in-dynamics-ax-2012/)
+
+# Книжки 
 
 [MorphX IT in Russian]() - книга про розробку в MS Dynamics AX за авторством [Стіна Андреасена]()
 
@@ -121,7 +133,7 @@ date: 2018-12-12
 
 [Репозиторій Mediawiki](http://www.axaptapedia.com/Main_Page) - побудований за допмогою Mediawiki репозиторій для статей, прийомів та трюків для використання в Microsoft Dynamics AX
 
-### Електроні книги online (область порталу)
+## Електроні книги online (область порталу)
 
 [MORPHX IT - Введение в язык программирования в Axapta X++ и среду разработки MorphX](http://book.axforum.info/morphx.pdf) 
 
@@ -129,7 +141,7 @@ date: 2018-12-12
 
 [Inside Dynamics AX]()
 
-### Книжки російською
+## Книжки російською
 
 [Разработка бизнес-приложений в Microsoft Business Solutions - Axapta версии 3.0](http://www.ozon.ru/context/detail/id/2149827/)
 
@@ -143,14 +155,14 @@ date: 2018-12-12
 
 [Microsoft Dynamics AX 2012]()
 
-[Microsoft Dynamics AX 2012](Введение в язык программирования в Axapta X++ и среду разработки MorphX)
+Microsoft Dynamics AX 2012 - Введение в язык программирования в Axapta X++ и среду разработки MorphX
 
-### [MS DAX 2012 - Справочник профессионала]
+### MS DAX 2012 - Справочник профессионала
  
 [MS DAX 2009 Руководство пользователя том 1]()
 
 [MS DAX 2009 Руководство пользователя том 2]() 
 
-## [Документація Microsoft]
+## Документація Microsoft
  
 [Документація для досвічених користуавчів](https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/microsoft-dynamics-ax-2012-technical-library)

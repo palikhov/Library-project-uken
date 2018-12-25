@@ -1,17 +1,60 @@
+# Project information
 site_name: Бібліотека проекту
 site_description: Каталог ресурсів та база знань команди проекту.
 site_author: Антон Паліхов aka Palant
 copyright: Сайт розроблено Робочою групи Проекту впровадження ERP в ДП "НЕК "Укренерго".
-repo_url: https://github.com/palikhov/project-erp-npc
+# Repository
+repo_name: 'palikhov/Library-project-uken'
+repo_url: 'https://github.com/palikhov/Library-project-uken'
+# Copyright
+copyright: 'Copyright &copy; 2018 - 2019 NPC Ukrenergo'
 
 nav:
     - Головна: index.md
-    - Статус: about.md
+    - Статус виконання робіт: 
+         - Поточний звіт за 4й квартал 2018: status/report-4-2018.md
+        
     - Бібліотека проекту:
         - Каталог інтернет посилань: library/links.md
         - Каталог книг: library/ebooks.md
         - Каталог шаблонів документів: library/templates.md
-    # - Sharepoint область: https://portal.ua.energy/sites/intranet/teamsites/erp/Documents/Forms/AllItems.aspx
+        - Microsoft Dynamics AX 2012 - довідник для професіонала: library/ms-dynamics-ax-2012-rus-book.md
+    - Навчальні матеріали:
+        - Як дізнатися структуру таблиці данних: education/example-table-names.md
+        - Як має працювати KPI: education/example-kpi-correct.md
+        - Допоміжні посилання при роботі з MKDocs: education/useful-links-mkdocs.md
+    - Ієрархія інвестиційних проектів: project-management-accounting/investments-program.md 
+    - Ліцензія: /license.md
+# Link as comment before release 
+
+# Configuration
+theme:
+  name: 'material'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  logo:
+    icon: 'library_books'
+  language: 'uk'
+  feature:
+    tabs: true
+    
+# Customization
+extra:
+  search:
+    language: 'en, ru, uk'
+  social:
+    - type: 'github'
+      link: 'https://github.com/palikhov'
+    - type: 'twitter'
+      link: 'https://twitter.com/AVPalikhov'
+    - type: 'linkedin'
+      link: 'https://linkedin.com/in/avpalikhov'
+
+# Extensions
 markdown_extensions:
     - smarty
     - abbr
@@ -22,9 +65,25 @@ markdown_extensions:
     - tables
     - admonition
     - meta
-    - wikilinks 
+    - wikilinks
+    - codehilite:
+          guess_lang: false
     - toc:
         permalink: True
     - sane_lists
-    - pymdownx.tasklist
-theme: yeti
+    - pymdownx.arithmatex
+    - pymdownx.betterem:
+          smart_enable: all
+    - pymdownx.caret
+    - pymdownx.critic
+    - pymdownx.details
+    - pymdownx.emoji:
+          emoji_generator: !!python/name:pymdownx.emoji.to_svg
+    - pymdownx.inlinehilite
+    - pymdownx.magiclink
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.superfences
+    - pymdownx.tasklist:
+          custom_checkbox: true
+    - pymdownx.tilde
