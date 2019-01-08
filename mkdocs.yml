@@ -2,7 +2,6 @@
 site_name: Бібліотека проекту
 site_description: Каталог ресурсів та база знань команди проекту.
 site_author: Антон Паліхов aka Palant
-copyright: Сайт розроблено Робочою групи Проекту впровадження ERP в BIG FUCKING COMPANY NAME.
 # Repository
 repo_name: 'palikhov/Library-project-uken'
 repo_url: 'https://github.com/palikhov/Library-project-uken'
