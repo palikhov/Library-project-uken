@@ -2,12 +2,12 @@
 site_name: Бібліотека проекту
 site_description: Каталог ресурсів та база знань команди проекту.
 site_author: Антон Паліхов aka Palant
-copyright: Сайт розроблено Робочою групи Проекту впровадження ERP в ДП "НЕК "Укренерго".
+copyright: Сайт розроблено Робочою групи Проекту впровадження ERP в BIG FUCKING COMPANY NAME.
 # Repository
 repo_name: 'palikhov/Library-project-uken'
 repo_url: 'https://github.com/palikhov/Library-project-uken'
 # Copyright
-copyright: 'Copyright &copy; 2018 - 2019 NPC Ukrenergo'
+copyright: 'Copyright &copy; 2018 - 2019 Team Awesome'
 
 nav:
     - Головна: index.md
@@ -23,7 +23,13 @@ nav:
         - Як дізнатися структуру таблиці данних: education/example-table-names.md
         - Як має працювати KPI: education/example-kpi-correct.md
         - Допоміжні посилання при роботі з MKDocs: education/useful-links-mkdocs.md
-    - Ієрархія інвестиційних проектів: project-management-accounting/investments-program.md 
+        - Інколи треба й жартувати: education/jokes.md
+    - Ієрархія інвестиційних проектів:
+        - Опис моделі інвестиційної діяльності: project-management-accounting/investments-program.md 
+        - Приклади використання розмітки: project-management-accounting/examples-markdown-extensions.md
+        - Модифікації програмного коду: project-management-accounting/pm-modifications.md
+        - Запис відео з екрану за допомогою PowerPoint: project-management-accounting/powerpoint-video-tutorials.md
+    - Складання та управлыння БРГК: treasury/education-cash-flow.md
     - Ліцензія: /license.md
 # Link as comment before release 
 
