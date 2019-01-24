@@ -7,11 +7,11 @@ date: 2018-12-12
 ---
 
 
-**Перелік посилань на корисні інтернет ресурси**
+# Перелік посилань на корисні інтернет ресурси
 
 *Якщо ви хочете прокоментувати будь-який з наявних тут ресурcів, чи порекомендувати інший ресурс - звертайтесь до Паліхова А.*
 
-# Сайти
+## Сайти
 
 [Microsoft Dynamics AX (ОФІЦІЙНИЙ САЙТ)](http://www.microsoft.com/Rus/dynamics/ax/overview.mspx)
 
@@ -23,7 +23,7 @@ date: 2018-12-12
 
 [Microsoft Dynamics AX (Axapta) на Mazzy.ru](http://www.axapta.mazzy.ru/)
  
-# Сертифікация 
+## Сертифікация 
 
 [Microsoft Certification](http://www.microsoft.com/learning/en/us/certification/cert-default.aspx)
 
@@ -32,7 +32,7 @@ date: 2018-12-12
 [Просмотр перечня сданных экзаменов для MCP-специалиста](https://mcp.microsoft.com/authenticate/validatemcp.aspx)
 
 
-# Документація
+## Документація
 
 [Getting Started with Microsoft Dynamics AX 2012](http://msdn.microsoft.com/ru-ru/aa886351) - Початок розробки з Microsoft Dynamics AX 
 
@@ -42,7 +42,7 @@ date: 2018-12-12
 
 [Best Practices for Microsoft Dynamics AX Development](http://msdn.microsoft.com/en-us/library/aa658028(v=AX.10).aspx) - блог по MS Dynamics AX у мене на disk D
 
-# Форуми
+## Форуми
 
 [Dynamics 365 for Finance and Operations/AX User Groups](https://dynamicsuser.net/ax/)  - Англомовний форум призначений як для користувачів системи, так й для розробників та членів проектної команди.
 
@@ -56,7 +56,7 @@ date: 2018-12-12
 
 [Microsoft Dynamics AX/NAV/CRM Russia](http://social.technet.microsoft.com/forums/ru-RU/dynamicsru/threads/)
  
-# Блоги
+## Блоги
   
 [Dynamics AX tools and tutorials](http://kashperuk.blogspot.com/) - блог Івана Кашперук по MS Dynamics AX
   
@@ -72,7 +72,7 @@ date: 2018-12-12
 
 За словами автора блогу він має інструменти корисні при роботі та програмуванні в системі [Microsoft Dynamics AX - Полезное](http://earlionakru.blogspot.com/)
  
-# Відео-канали 
+## Відео-канали 
 
 [Microsoft ERP@Russia](http://www.youtube.com/user/MBS2017)
 
@@ -82,7 +82,7 @@ date: 2018-12-12
 
 https://blogs.msdn.microsoft.com/crm/
 
-# IDE Extensions
+## IDE Extensions
 
 [AxCreateNewProject](http://www.axaptapedia.com/AxCreateNewProject) - засіб, що значно прискорює створення проектів. Це можнор зробити фактично за дві кліки
 
@@ -99,7 +99,7 @@ https://blogs.msdn.microsoft.com/crm/
 [SysExportDialog]() - продовження системних форм, що додає тип об'єкту в експортоване ім'я файлу. 
 [Editor_scripts_OpenOverriddenMethodDef]() - Скрипт редактора дозволив би  перехід до зановоо визначеного методу декларування классу в залежносты від класу.
 
-# Плагіни
+## Плагіни
 
 [EV_TabaxPlugin_OpenInAOT]() - швидкий доступ до об'єктів AOT
 
@@ -107,7 +107,7 @@ https://blogs.msdn.microsoft.com/crm/
 
 [DEV_TabaxPlugin_RecentWindows]() - повторно відкрити одне із попередньо зачинених вікон. 
 
-# Статті 
+## Статті 
 
 [Tutorial_Form_Dynalink]() - Невеликий навчальний матеріал по динамічним зв'язкам в MS Dynamics AX
 
@@ -163,6 +163,6 @@ Microsoft Dynamics AX 2012 - Введение в язык программиро
 
 [MS DAX 2009 Руководство пользователя том 2]() 
 
-## Документація Microsoft
+# Документація Microsoft
  
 [Документація для досвічених користуавчів](https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/microsoft-dynamics-ax-2012-technical-library)

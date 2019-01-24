@@ -29,6 +29,10 @@ nav:
         - Модифікації програмного коду: project-management-accounting/pm-modifications.md
         - Запис відео з екрану за допомогою PowerPoint: project-management-accounting/powerpoint-video-tutorials.md
     - Складання та управлыння БРГК: treasury/education-cash-flow.md
+    - Кадровий облік та зарплата: human_resources/index.md
+    - Бухгалтерський облік: accounting/index.md
+    - Закупівлі: purchasing/index.md
+    - Бюджетування: budget_managing/index.md
     - Ліцензія: /license.md
 # Link as comment before release 
 

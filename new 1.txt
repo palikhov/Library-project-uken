@@ -1,0 +1,150 @@
+# Книжки
+
+Перелік книжок наявних в електроному вигляді у області проекту
+
+Автори. Назва книжки  - русский - анотація - [типфайлу](посилання)
+
+Автори. Назва книжки  - русский - анотація - [типфайлу](посилання)
+
+Автори. Назва книжки  - русский - анотація - [типфайлу](посилання)
+
+Автори. Назва книжки  - English - анотація - [типфайлу](посилання)
+
+Автори. Назва книжки  - English - анотація - [типфайлу](посилання)
+
+Автори. Назва книжки  - English - анотація - [типфайлу](посилання)
+
+Автори. Назва книжки  - English - анотація - [типфайлу](посилання)
+
+Автори. Назва книжки  - English - анотація - [типфайлу](посилання)
+
+Автори. Назва книжки  - English - анотація - [типфайлу](посилання)
+
+# Перелік посилань на корисні інтернет ресурси
+
+## Сайти 
+
+[Microsoft Dynamics AX (официальный сайт)](http://www.microsoft.com/Rus/dynamics/ax/overview.mspx)
+
+[Microsoft Dynamics PartnerSource Russia](https://mbs.microsoft.com/partnersource/worldwide/russia) 
+
+[Microsoft Dynamics AX Developer Center](http://msdn.microsoft.com/ru-ru/dynamics/ax/bb453258)
+
+[Microsoft Dynamics: База знаний](http://erpkb.com/Axapta?v=jq7)
+
+[Axaptapedia.com](http://www.axaptapedia.com/)
+
+[Microsoft Dynamics AX (Axapta) на Mazzy.ru](http://www.axapta.mazzy.ru/)
+ 
+## Сертификация 
+Microsoft Certification - http://www.microsoft.com/learning/en/us/certification/cert-default.aspx 
+Microsoft Certified Professional - https://www.microsoft.com/learning/members/en/us/mcp/mcp-default.aspx 
+Просмотр перечня сданных экзаменов для MCP-специалиста: https://mcp.microsoft.com/authenticate/validatemcp.aspx 
+ 
+## Документация 
+- Microsoft Dynamics AX MSDN library - http://msdn.microsoft.com/en-us/library/aa155304.aspx 
+- Microsoft Dynamics AX TechNet Library - http://technet.microsoft.com/en-us/library/dd362025.aspx 
+- Best Practices for Microsoft Dynamics AX Development - http://msdn.microsoft.com/en-us/library/aa658028(v=AX.10).aspx 
+- Getting Started with Microsoft Dynamics AX 2012 - http://msdn.microsoft.com/ru-ru/aa886351 
+ 
+## Форумы 
+- AXForum.info - http://axforum.info/ 
+- AXForum.info (offline версия) - http://axforum.info/forums/showthread.php?t=5883 
+- Microsoft Dynamics AX Forum - http://dynamicsuser.net/forums/axapta.aspx 
+- Microsoft Dynamics AX Community - http://www.microsoft.com/Rus/dynamics/professionals/community.mspx 
+- Microsoft Dynamics AX/NAV/CRM Russia - http://social.technet.microsoft.com/forums/ru-RU/dynamicsru/threads/ 
+ 
+## Блоги 
+- Dynamics AX tools and tutorials (Иван Кашперук) - http://kashperuk.blogspot.com/ 
+- AXCoder (Максим Белугин) - http://axcoder.blogspot.com/ 
+- Investigating DAX (Денис Федотенко) - http://fedotenko.info/ 
+- mfp's two cents - http://blogs.msdn.com/b/mfp/ 
+- Microsoft ERP @ Russia (RUmicrosoftERP) - http://blogs.technet.com/b/rumicrosofterp/ 
+- Inside Microsoft Dynamics AX - http://blogs.msdn.com/b/dax/ 
+ 
+## Видео-каналы 
+- Microsoft ERP@Russia - http://www.youtube.com/user/MBS2017 
+- Microsoft Dynamics ERP - http://www.youtube.com/user/MicrosoftDynamicsERP 
+ 
+## Электронные книги online 
+[MORPHX IT - Введение в язык программирования в Axapta X++ и среду разработки MorphX] [pdf](http://book.axforum.info/morphx.pdf) 
+
+Inside Dynamics AX 4.0 [pdf]() 
+
+## Книги на русском 
+- Разработка бизнес-приложений в Microsoft Business Solutions - Axapta версии 3.0 - http://www.ozon.ru/context/detail/id/2149827/ 
+- Microsoft Dynamics AX 4.0 - http://www.ozon.ru/context/detail/id/3714582/ 
+- Microsoft Dynamics АХ 2009 - http://www.ozon.ru/context/detail/id/4804966/ 
+ 
+ 
+Microsoft Dynamics AX (Axapta) литература 
+Microsoft Dynamics AX 2012 
+MS DAX 2012 Справочник профессионала 
+ 
+Microsoft Dynamics AX 2009 
+MS DAX 2009 Руководство пользователя том 1 
+MS DAX 2009 Руководство пользователя том 2 
+Microsoft Dynamics Axapta 4.0 
+Общее описание функциональности Microsoft Dynamics Axapta 4.0 
+Microsoft Dynamics Axapta 3.0 
+Разработка бизнес-приложений в Microsoft Business Solutions - Axapta версии 3.0 
+MORPHX IT 
+Введение в язык программирования в Axapta X++ и среду разработки MorphX ax-1 
+ 
+## IDE Extensions 
+
+[AxCreateNewProject]() -- a tool that really speads up the creation of projects. You can basically do it in a matter of 2 clicks 
+
+[Editor_scripts_OpenInAOT]() -- an Editor Script that allows to open the selected object (in the code editor) in the AOT. This works for most of the objects that are usually used in code. The list of object types can be extended. 
+
+[AxGoToDeclaration]() --a tool that allows to go to the declaration of a selected variable from code. (the line with the declaration is highlighted with the cursor 
+
+[AxCopyTableFieldListToClipboard]() - a tool that copies a template of table fields into the Windows Clipboard. If you need to create a record in a table, this tool will help you do it fast. Multiple ways of selecting a table possible. 
+
+[AxPromptDBSync]() - a small project that allows wider control of the syncronization process 
+
+[DEV SysTableBrowser]() -- an extended version of the SysTableBrowser form, providing extra useful functionality 
+
+[SysExportDialog]() - extension of the system form, adding the type of the object in the export file name 
+[Editor_scripts_OpenOverriddenMethodDef]() -- an Editor Script that allows to navigate to the overridden method declaration of a class in one of the descendent classes 
+
+## [Кіт](Plugins)
+
+[EV_TabaxPlugin_OpenInAOT]() - quickly access AOT objects 
+
+[DEV_TabaxPlugin_RecentProjects]() - reopen one of the recently used projects 
+
+[DEV_TabaxPlugin_RecentWindows]() - reopen one of the previously closed windows 
+
+## Статті 
+
+[Tutorial_Form_Dynalink - a small tutorial on dynamic links in Axapta 
+[Tutorial_Form_MultiSelectCheckBox] - a tutorial on Multiple line selection (with a checkbox) 
+[ClassBuild Class]() - description of ClassBuild class (for creating classes in AOT) 
+[Form_SysTableBrowser] () - a short description of the SysTableBrowser form 
+[SQLServerFetchCount]() -- a job for experiments with table CacheLookup property (Caching mechanisms) 
+[SysInfoAction_ShellExecute class]() - a small class extending SysInfoAction class for opening an external application from infolog 
+[SysMultiTableLookup class]() - an extended version of the SysTableLookup class 
+
+## Книжки 
+
+[MorphX IT in Russian]() - a book about Dynamics AX development by Steen Andreasen 
+
+[Inside Dynamics AX 4.0 in Russian]() - a great book about Dynamics AX development and new 4.0 features by Microsoft team 
+
+[Репозиторій Mediawiki](http://www.axaptapedia.com/Main_Page) - a Mediawiki based repository for Microsoft Dynamics AX (formerly Axapta) articles, tips and tricks. 
+ 
+## [Документація Microsoft]() 
+ 
+[Інші](https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/microsoft-dynamics-ax-2012-technical-library)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
