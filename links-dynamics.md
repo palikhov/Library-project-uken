@@ -26,3 +26,14 @@
 1. [Сочетания клавиш](https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/shortcut-keys)
 
 2. [Использование избранного](https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/using-favorites)
+
+
+# Использование надстройки Microsoft Dynamics AX для Microsoft Excel
+
+1. [Настройка интеграции с надстройками Microsoft Office](https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/set-up-integration-with-microsoft-office-add-ins)
+
+2. [Об использовании надстройки Microsoft Dynamics AX для Excel](https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/about-using-the-microsoft-dynamics-ax-add-in-for-excel)
+
+3. [Обновление данных Microsoft Dynamics AX с помощью Microsoft Excel](https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/update-microsoft-dynamics-ax-data-by-using-microsoft-excel)
+
+4. [Основные задачи: Создание и совместное использование шаблона Excel с помощью надстроек Office](https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/key-tasks-create-and-share-an-excel-template-by-using-the-office-add-ins)
