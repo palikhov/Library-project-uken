@@ -3,7 +3,7 @@ title: Корисні інформаційні ресурси по MS Dynamics A
 summary: Перелік сайтів, форумів, блогів та інших ресурсів з корисною для Робочої групи Проекту інформацією по Microsoft Dynamics AX 2012
 authors:
     - Anton Palikhov
-date: 2018-12-12
+date: 2018-25-01
 ---
 
 
@@ -49,8 +49,6 @@ date: 2018-12-12
 [AXForum.info](http://axforum.info/) - великий російськомовний форум присвячений MS Dynamics AX
 
 [AXForum.info (offline версия)](http://axforum.info/forums/showthread.php?t=5883) - російськомовний форум по MS Dynamics AX (версія для перегляду офлайн)
-
-
 
 [Microsoft Dynamics AX Community](http://www.microsoft.com/Rus/dynamics/professionals/community.mspx)
 
@@ -125,44 +123,10 @@ https://blogs.msdn.microsoft.com/crm/
 
 [Developing a Product Approval Workflow in Dynamics AX 2012](https://extendingdynamicsax.com/2013/11/06/developing-a-product-approval-workflow-in-dynamics-ax-2012/)
 
-# Книжки 
 
-[MorphX IT in Russian]() - книга про розробку в MS Dynamics AX за авторством [Стіна Андреасена]()
-
-[Inside Dynamics AX 4.0 in Russian](9) - 
-
-[Репозиторій Mediawiki](http://www.axaptapedia.com/Main_Page) - побудований за допмогою Mediawiki репозиторій для статей, прийомів та трюків для використання в Microsoft Dynamics AX
-
-## Електроні книги online (область порталу)
-
-[MORPHX IT - Введение в язык программирования в Axapta X++ и среду разработки MorphX](http://book.axforum.info/morphx.pdf) 
-
-[pdf]() 
-
-[Inside Dynamics AX]()
-
-## Книжки російською
-
-[Разработка бизнес-приложений в Microsoft Business Solutions - Axapta версии 3.0](http://www.ozon.ru/context/detail/id/2149827/)
-
-[Microsoft Dynamics AX 4.0](http://www.ozon.ru/context/detail/id/3714582/)
-
-[Microsoft Dynamics АХ 2009]([http://www.ozon.ru/context/detail/id/4804966/)
- 
-[Microsoft Dynamics AX (Axapta]())
-
-[Microsoft Dynamics AX 2012]()
-
-[Microsoft Dynamics AX 2012]()
-
-Microsoft Dynamics AX 2012 - Введение в язык программирования в Axapta X++ и среду разработки MorphX
-
-### MS DAX 2012 - Справочник профессионала
- 
-[MS DAX 2009 Руководство пользователя том 1]()
-
-[MS DAX 2009 Руководство пользователя том 2]() 
 
 # Документація Microsoft
  
 [Документація для досвічених користуавчів](https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/microsoft-dynamics-ax-2012-technical-library)
+
+

@@ -14,25 +14,26 @@ nav:
          - Поточний звіт за 4й квартал 2018: status/report-4-2018.md
         
     - Бібліотека проекту:
-        - Каталог інтернет посилань: library/links.md
+    - ОСНОВНІ КНИЖКИ РОСІЙСЬКОЮ: library/books-russian.md  
+      - Каталог інтернет посилань: library/links.md
         - Каталог книг: library/ebooks.md
-        - Каталог шаблонів документів: library/templates.md
         - Microsoft Dynamics AX 2012 - довідник для професіонала: library/ms-dynamics-ax-2012-rus-book.md
     - Навчальні матеріали:
         - Як дізнатися структуру таблиці данних: education/example-table-names.md
         - Як має працювати KPI: education/example-kpi-correct.md
         - Допоміжні посилання при роботі з MKDocs: education/useful-links-mkdocs.md
         - Інколи треба й жартувати: education/jokes.md
-    - Ієрархія інвестиційних проектів:
+    - Закупівлі: purchasing/index.md
+    - Управління та облік по проектам:
+        - Корисні посилання на документацію: /project-management-accounting/docs-project-management.md
         - Опис моделі інвестиційної діяльності: project-management-accounting/investments-program.md 
         - Приклади використання розмітки: project-management-accounting/examples-markdown-extensions.md
         - Модифікації програмного коду: project-management-accounting/pm-modifications.md
         - Запис відео з екрану за допомогою PowerPoint: project-management-accounting/powerpoint-video-tutorials.md
+    - Бюджетування: budget_managing/index.md
     - Складання та управлыння БРГК: treasury/education-cash-flow.md
     - Кадровий облік та зарплата: human_resources/index.md
     - Бухгалтерський облік: accounting/index.md
-    - Закупівлі: purchasing/index.md
-    - Бюджетування: budget_managing/index.md
     - Ліцензія: /license.md
 # Link as comment before release 
 
