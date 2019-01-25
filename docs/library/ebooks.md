@@ -14,7 +14,7 @@ date: 2018-25-01
 
 ## Основные книги на английском языке
 
-3. Andreas Luszczak (auth.) - Using Microsoft Dynamics AX 2012 - Updated for Version R3 (2015, Vieweg+Teubner Verlag).pdf- ~~[DOWNLOAD PDF](https://github.com/palikhov/Library-project-uken/blob/master/docs/media/Andreas%20Luszczak%20(auth.)%20-%20Using%20Microsoft%20Dynamics%20AX%202012_%20Updated%20for%20Version%20R3%20(2015%2C%20Vieweg%2BTeubner%20Verlag).pdf)~~
+3. Andreas Luszczak (auth.) - Using Microsoft Dynamics AX 2012 - Updated for Version R3 (2015, Vieweg+Teubner Verlag).pdf- [DOWNLOAD PDF](https://github.com/palikhov/Library-project-uken/blob/master/docs/media/Andreas%20Luszczak%20(auth.)%20-%20Using%20Microsoft%20Dynamics%20AX%202012_%20Updated%20for%20Version%20R3%20(2015%2C%20Vieweg%2BTeubner%20Verlag).pdf)
 
 4. Simon Buxton, Mat Fergusson. Mastering Microsoft Dynamics AX 2012 R3 Programming  - English - A comprehensive guide to developing maintanable and extendable solutions with Microsot Dynamics AX 2012 - [DOWNLOAD RAR](https://github.com/palikhov/Library-project-uken/blob/master/docs/media/Buxton%20S.,%20Fergusson%20M.-Mastering%20Microsoft%20Dynamics%20AX%202012%20R3%20Programming.rar?raw=true)
 
