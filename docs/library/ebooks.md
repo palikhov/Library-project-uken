@@ -61,4 +61,3 @@ Hamilton S.-Warehouse Management using Microsoft Dynamics AX 2012 R3 (1).epub
 Extending-Microsoft-Dynamics-AX-2012-Cookbook-A-practical-guide-to-extending-and-maximizing-the-potential-of-Dynamics-AX-using-common-Microsoft-technologies.pdf
 
 
-[Code bundle zip from dynamics ax 2012 development cookbook](https://github.com/palikhov/Library-project-uken/blob/master/docs/media/-code-bundle-from-Microsoft-Dynamics-AX-2012-Development-Cookbook.zip)
