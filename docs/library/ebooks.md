@@ -20,7 +20,7 @@ date: 2018-25-01
 
 5 Mohamed Aamer. Microsoft Dynamics AX 2012 R3 Financial	Management - English - Boost your accounting and financial skills with Microsoft Dynamics AX 2012 R3 - [DOWNLOAD PDF](https://github.com/palikhov/Library-project-uken/blob/master/docs/media/Buxton%20S.%2C%20Fergusson%20M.-Mastering%20Microsoft%20Dynamics%20AX%202012%20R3%20Programming.rar)
 
-6.  Mohammed Rasheed, Erlend Dalen. Learning MS Dynamics AX 2012 Programming  - English - Develop and customize your very own Microsoft Dynamics AX solution quickly and efficiently  - [DOWNLOAD PDF](посилання)
+6.  Mohammed Rasheed, Erlend Dalen. Learning MS Dynamics AX 2012 Programming  - English - Develop and customize your very own Microsoft Dynamics AX solution quickly and efficiently  - [DOWNLOAD PDF](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Mohammed%20Rasheed%2C%20Erlend%20Dalen-Learning%20MS%20Dynamics%20AX%202012%20Programming-Packt%20Publishing%20(%202014).pdf)
 
 6. The Microsoft Dynamics AX Team-Inside Microsoft Dynamics AX 2012 R3 - [DOWNLOAD AZW3](https://github.com/palikhov/Library-project-uken/blob/master/docs/media/The%20Microsoft%20Dynamics%20AX%20Team-Inside%20Microsoft%20Dynamics%20AX%202012%20R3-Microsoft%20Press%20(2014)%20(1).azw3)
 
@@ -36,29 +36,29 @@ date: 2018-25-01
 **Chapter 8, Improving Development Efficiency**, presents a few ideas on how to make daily development tasks easier. The chapter demonstrates how to build code templates, modify the tools and the right-click context menus, use search in development projects, and customize the Personalization form.
 **Chapter 9, Improving Dynamics AX Performance**, discusses how system performance can be improved by following several simple rules. The chapter explains how to calculate code execution time, how to write efficient SQL statements, how to properly cache display methods, and how to use Dynamics AX Trace Parser and SQL Server Database Engine Tuning Advisor. 
 
- ~~EPUB/zip](посилання)~~
+ [EPUB/zip](https://github.com/palikhov/Library-project-uken/blob/master/docs/media/Pocius%20M.-Microsoft%20Dynamics%20AX%202012%20R3%20Development%20Cookbook%20(1).rar?raw=true)
 
-9. Програмний код для Microsoft Dynamics AX 2012 Development Cookbook - ~~[xpo/zip](посилання)~~
+9. Програмний код для Microsoft Dynamics AX 2012 Development Cookbook - [xpo/zip](https://github.com/palikhov/Library-project-uken/blob/master/docs/media/-code-bundle-from-Microsoft-Dynamics-AX-2012-Development-Cookbook)
 
-Генератор финансовых отчетов - информационное письмо ~~[DOCX](посилання)~~
+Генератор финансовых отчетов - информационное письмо [DOCX](https://github.com/palikhov/Library-project-uken/blob/master/docs/media/MS_DYNAMICS_AX_2012_RUS_GFO.docx?raw=true)
 
 ## Інші книжки
 
-Dynamics AX 2012 Blueprints: Developing a Product Approval Workflow Paperback – November 14, 2013
+[Dynamics AX 2012 Blueprints: Developing a Product Approval Workflow Paperback – November 14, 2013]()
 
-Microsoft-Dynamics-AX-2012-R3-Reporting-Cookbook-Over-90-recipes-to-help-you-resolve-your-new-SSRS-Reporting-woes-in-Dynamics-AX-2012-R3.pdf
+[Microsoft-Dynamics-AX-2012-R3-Reporting-Cookbook-Over-90-recipes-to-help-you-resolve-your-new-SSRS-Reporting-woes-in-Dynamics-AX-2012-R3.pdf](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Microsoft-Dynamics-AX-2012-R3-Reporting-Cookbook-Over-90-recipes-to-help-you-resolve-your-new-SSRS-Reporting-woes-in-Dynamics-AX-2012-R3.pdf)
 
-Microsoft-Dynamics-AX-2012-R3-Financial-Management.epub
+[Microsoft-Dynamics-AX-2012-R3-Financial-Management.epub](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Microsoft-Dynamics-AX-2012-R3-Financial-Management%20(1).epub)
 
-Learning-MS-Dynamics-AX-2012-Programming-Develop-and-customize-your-very-own-Microsoft-Dynamics-AX-solution-quickly-and-efficiently 
+[Learning-MS-Dynamics-AX-2012-Programming-Develop-and-customize-your-very-own-Microsoft-Dynamics-AX-solution-quickly-and-efficiently](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Implementing-Microsoft-Dynamics-AX-2012-with-Sure-Step-2012-Get-to-grips-with-AX-2012-and-learn-a-whole-host-of-tips-and-tricks-to-ensure-project-success.pdf)
 
-Implementing-Microsoft-Dynamics-AX-2012-with-Sure-Step-2012-Get-to-grips-with-AX-2012-and-learn-a-whole-host-of-tips-and-tricks-to-ensure-project-success.pdf
+[Implementing-Microsoft-Dynamics-AX-2012-with-Sure-Step-2012-Get-to-grips-with-AX-2012-and-learn-a-whole-host-of-tips-and-tricks-to-ensure-project-success.pdf](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Implementing-Microsoft-Dynamics-AX-2012-with-Sure-Step-2012-Get-to-grips-with-AX-2012-and-learn-a-whole-host-of-tips-and-tricks-to-ensure-project-success.pdf)
 
-Hirwani, Mukesh-Developing SSRS reports for Dynamics AX-Packt Publishing (2013).epub
+[Hirwani, Mukesh-Developing SSRS reports for Dynamics AX-Packt Publishing (2013).epub](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Hirwani%2C%20Mukesh-Developing%20SSRS%20reports%20for%20Dynamics%20AX-Packt%20Publishing%20(2013).epub)
 
-Hamilton S.-Warehouse Management using Microsoft Dynamics AX 2012 R3 (1).epub
+[Hamilton S.-Warehouse Management using Microsoft Dynamics AX 2012 R3 (1).epub](https://github.com/palikhov/Library-project-uken/blob/master/docs/media/Hamilton%20S.-Warehouse%20Management%20using%20Microsoft%20Dynamics%20AX%202012%20R3%20(1).epub)
 
-Extending-Microsoft-Dynamics-AX-2012-Cookbook-A-practical-guide-to-extending-and-maximizing-the-potential-of-Dynamics-AX-using-common-Microsoft-technologies.pdf
+[Extending-Microsoft-Dynamics-AX-2012-Cookbook-A-practical-guide-to-extending-and-maximizing-the-potential-of-Dynamics-AX-using-common-Microsoft-technologies.pdf](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Extending-Microsoft-Dynamics-AX-2012-Cookbook-A-practical-guide-to-extending-and-maximizing-the-potential-of-Dynamics-AX-using-common-Microsoft-technologies.pdf)
 
 # Матеріали українською
 
@@ -82,3 +82,24 @@ Extending-Microsoft-Dynamics-AX-2012-Cookbook-A-practical-guide-to-extending-and
 
 [Microsoft Docs - Budget plan cube (BudgetPlanCube) for Microsoft Dynamics AX 2012 R2 and R3](https://docs.microsoft.com/en-us/dynamicsax-2012/appuser-itpro/budget-plan-cube-budgetplancube-for-microsoft-dynamics-ax-2012-r2-and-r3)
 
+[Mindaugas Pocius-Microsoft Dynamics AX 2009 Development Cookbook-Packt Publishing (2009).pdf](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Mindaugas%20Pocius-Microsoft%20Dynamics%20AX%202009%20Development%20Cookbook-Packt%20Publishing%20(2009).pdf)
+
+[Mindaugas Pocius-Microsoft Dynamics AX 2012 Development Cookbook-Packt Publishing (2012).epub](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Mindaugas%20Pocius-Microsoft%20Dynamics%20AX%202012%20Development%20Cookbook-Packt%20Publishing%20(2012).epub)
+
+[Mindaugas Pocius-Microsoft Dynamics AX 2012 Development Cookbook-Packt Publishing (2012).pdf](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Mindaugas%20Pocius-Microsoft%20Dynamics%20AX%202012%20Development%20Cookbook-Packt%20Publishing%20(2012).pdf)
+
+[Mindaugas Pocius-Microsoft Dynamics AX 2012 R3 Development Cookbook-Packt Publishing (2015).pdf](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Mindaugas%20Pocius-Microsoft%20Dynamics%20AX%202012%20R3%20Development%20Cookbook-Packt%20Publishing%20(2015).pdf)
+
+[Mohamed Aamer-Microsoft Dynamics AX 2012 Financial Management-Packt Publishing (2013).epub](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Mohamed%20Aamer-Microsoft%20Dynamics%20AX%202012%20Financial%20Management-Packt%20Publishing%20(2013).epub)
+
+[Mohamed Aamer-Microsoft Dynamics AX 2012 Financial Management-Packt Publishing (2013).pdf](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Mohamed%20Aamer-Microsoft%20Dynamics%20AX%202012%20Financial%20Management-Packt%20Publishing%20(2013).pdf)
+
+[MS Dynamics AX Shared Financial Data Management White Paper.pdf](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/MS%20Dynamics%20AX%20Shared%20Financial%20Data%20Management%20White%20Paper.pdf)
+
+[Andreas Luszczak-Using Microsoft Dynamics AX-Springer (2016).pdf](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Andreas%20Luszczak-Using%20Microsoft%20Dynamics%20AX-Springer%20(2016).pdf)
+
+[https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Andreas%20Luszczak%20(auth.)%20-%20Using%20Microsoft%20Dynamics%20AX%202012_%20Updated%20for%20Version%20R3%20(2015%2C%20Vieweg%2BTeubner%20Verlag)%20(1).pdf](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Andreas%20Luszczak%20(auth.)%20-%20Using%20Microsoft%20Dynamics%20AX%202012_%20Updated%20for%20Version%20R3%20(2015%2C%20Vieweg%2BTeubner%20Verlag)%20(1).pdf)
+
+[Learning-MS-Dynamics-AX-2012-Programming-Develop-and-customize-your-very-own-Microsoft-Dynamics-AX-solution-quickly-and-efficiently.pdf](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Learning-MS-Dynamics-AX-2012-Programming-Develop-and-customize-your-very-own-Microsoft-Dynamics-AX-solution-quickly-and-efficiently.pdf)
+
+[Microsoft-Dynamics-AX-2012-R3-Financial-Management (1).epub](https://github.com/palikhov/Library-project-uken/raw/master/docs/media/Microsoft-Dynamics-AX-2012-R3-Financial-Management%20(1).epub)
