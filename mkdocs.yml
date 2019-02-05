@@ -11,12 +11,13 @@ copyright: 'Copyright &copy; 2018 - 2019 Team Awesome'
 nav:
     - Головна: index.md
     - Статус виконання робіт: 
-         - Поточний звіт за 4й квартал 2018: status/report-4-2018.md
-        
+         - Поточний звіт за 4й квартал 2018: status/report-4-2018.md      
     - Бібліотека проекту:
         - ОСНОВНІ КНИЖКИ РОСІЙСЬКОЮ: library/books-russian.md  
         - Каталог інтернет посилань: library/links.md
         - Каталог книг: library/ebooks.md
+        - Каталог книг 2: library/books.md
+        - Шаблони: library/templates.md
         - Microsoft Dynamics AX 2012 - довідник для професіонала: library/ms-dynamics-ax-2012-rus-book.md
     - Навчальні матеріали:
         - Як дізнатися структуру таблиці данних: education/example-table-names.md
@@ -25,7 +26,8 @@ nav:
         - Інколи треба й жартувати: education/jokes.md
     - Закупівлі: purchasing/index.md
     - Управління та облік по проектам:
-        - Корисні посилання на документацію: /project-management-accounting/docs-project-management.md
+        - Модуль Управління та облік по проектам: project-management-accounting\index.md
+        - Корисні посилання на документацію: project-management-accounting/docs-project-management.md
         - Опис моделі інвестиційної діяльності: project-management-accounting/investments-program.md 
         - Приклади використання розмітки: project-management-accounting/examples-markdown-extensions.md
         - Модифікації програмного коду: project-management-accounting/pm-modifications.md
@@ -34,7 +36,10 @@ nav:
     - Складання та управлыння БРГК: treasury/education-cash-flow.md
     - Кадровий облік та зарплата: human_resources/index.md
     - Бухгалтерський облік: accounting/index.md
-    - Ліцензія: /license.md
+    - Ліцензія: license.md
+    - Щось: media/index.md
+    - Інше щось: media/education/index.md
+    - Звіт: status\report.md
 # Link as comment before release 
 
 # Configuration
