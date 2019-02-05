@@ -6,10 +6,9 @@ authors:
 date: 2018-25-01
 ---
 
-
 # Перелік посилань на корисні інтернет ресурси
-
-*Якщо ви хочете прокоментувати будь-який з наявних тут ресурcів, чи порекомендувати інший ресурс - звертайтесь до Паліхова А.*
+!!! tip
+    Якщо ви хочете прокоментувати будь-який з наявних тут ресурcів, чи порекомендувати інший ресурс - звертайтесь до Паліхова А.*
 
 ## Сайти
 
@@ -122,8 +121,6 @@ https://blogs.msdn.microsoft.com/crm/
 [SysMultiTableLookup class]() - розширена версія класу SysTableLookup
 
 [Developing a Product Approval Workflow in Dynamics AX 2012](https://extendingdynamicsax.com/2013/11/06/developing-a-product-approval-workflow-in-dynamics-ax-2012/)
-
-
 
 # Документація Microsoft
  

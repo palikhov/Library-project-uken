@@ -14,8 +14,8 @@ nav:
          - Поточний звіт за 4й квартал 2018: status/report-4-2018.md
         
     - Бібліотека проекту:
-    - ОСНОВНІ КНИЖКИ РОСІЙСЬКОЮ: library/books-russian.md  
-      - Каталог інтернет посилань: library/links.md
+        - ОСНОВНІ КНИЖКИ РОСІЙСЬКОЮ: library/books-russian.md  
+        - Каталог інтернет посилань: library/links.md
         - Каталог книг: library/ebooks.md
         - Microsoft Dynamics AX 2012 - довідник для професіонала: library/ms-dynamics-ax-2012-rus-book.md
     - Навчальні матеріали:
@@ -97,3 +97,8 @@ markdown_extensions:
     - pymdownx.tasklist:
           custom_checkbox: true
     - pymdownx.tilde
+
+extra_javascript: [extra.js]
+
+extra_css:
+    - css/custom.css

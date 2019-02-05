@@ -6,6 +6,9 @@ authors:
 date: 2018-12-12
 ---
 
+!!! failure
+    На даний момент лінки не працюють.
+
 [Шаблон Visio](http://ua.energy)
 
 [Шаблон ТЗ](http://ua.energy)
