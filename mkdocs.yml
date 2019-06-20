@@ -10,7 +10,7 @@ copyright: 'Copyright &copy; 2018 - 2019 Антон Паліхов в межах
 
 nav:
     - Главная: index.md
-    - Бібліотека проекту:
+    - БИБЛИОТЕКА:
         - Основные книги на русском library/books-russian.md  
         - Каталог интернет ссылок: library/links.md
         - Каталог книг: library/ebooks.md
@@ -22,7 +22,6 @@ nav:
         - Як має працювати KPI: education/example-kpi-correct.md
         - Допоміжні посилання при роботі з MKDocs: education/useful-links-mkdocs.md
         - Інколи треба й жартувати: education/jokes.md
-    - Закупівлі: purchasing/index.md
     - Управління та облік по проектам:
         - Модуль Управління та облік по проектам: project-management-accounting\index.md
         - Корисні посилання на документацію: project-management-accounting/docs-project-management.md
@@ -32,12 +31,10 @@ nav:
         - Запис відео з екрану за допомогою PowerPoint: project-management-accounting/powerpoint-video-tutorials.md
     - Бюджетування: budget_managing/index.md
     - Складання та управлыння БРГК: treasury/education-cash-flow.md
-    - Кадровий облік та зарплата: human_resources/index.md
-    - Бухгалтерський облік: accounting/index.md
-    - Ліцензія: license.md
-    - Щось: media/index.md
-    - Інше щось: media/education/index.md
-    - Звіт: status\report.md
+    - Построение отчетов: 
+        - Построение настраиваемых отчетов в Dynamics AX: reporting/custom-reports.md
+        - Использование надстройки Microsoft Dynamics AX для Excel: dynamics-ax-addin-excel.md
+
 # Link as comment before release 
 
 # Configuration

@@ -1,0 +1,989 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="uk" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="Каталог ресурсов и база знаний команды проекта по внедрению Microsoft Dynamics AX 2012 в NPC Ukrenergo">
+      
+      
+      
+        <meta name="author" content="Антон Палихов aka Palant">
+      
+      
+        <meta name="lang:clipboard.copy" content="Скопіювати в буфер">
+      
+        <meta name="lang:clipboard.copied" content="Скопійовано в буфер">
+      
+        <meta name="lang:search.language" content="en, ru, uk">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="Збігів не знайдено">
+      
+        <meta name="lang:search.result.one" content="Знайдено 1 збіг">
+      
+        <meta name="lang:search.result.other" content="Знайдено # збігів">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.1.0">
+    
+    
+      
+        <title>Dynamics ax addin excel - Библиотека с документацией и справочниками для Dynamics AX</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/application.11e41852.css">
+      
+        <link rel="stylesheet" href="../../assets/stylesheets/application-palette.22915126.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#3f51b5">
+      
+    
+    
+      <script src="../../assets/javascripts/modernizr.20ef595d.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,400i,700|Ubuntu+Mono">
+        <style>body,input{font-family:"Ubuntu","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Ubuntu Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../../assets/fonts/material-icons.css">
+    
+    
+      <link rel="stylesheet" href="../../css/custom.css">
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="__github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#microsoft-dynamics-ax-excel" tabindex="1" class="md-skip">
+        Перейти до змісту
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../.." title="Библиотека с документацией и справочниками для Dynamics AX" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon">library_books</i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                Библиотека с документацией и справочниками для Dynamics AX
+              </span>
+              <span class="md-header-nav__topic">
+                Dynamics ax addin excel
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Пошук" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Розпочніть писати для пошуку
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/palikhov/Library-project-uken/" title="Перейти до репозиторію" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/Library-project-uken
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+        
+
+<nav class="md-tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="../.." title="Главная" class="md-tabs__link md-tabs__link--active">
+        Главная
+      </a>
+    
+  </li>
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../Основные книги на русском library/books-russian.md" title="БИБЛИОТЕКА" class="md-tabs__link">
+          БИБЛИОТЕКА
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../education/example-table-names/" title="Обучающие материалы" class="md-tabs__link">
+          Обучающие материалы
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../project-management-accounting/" title="Управління та облік по проектам" class="md-tabs__link">
+          Управління та облік по проектам
+        </a>
+      
+    </li>
+  
+
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="../../budget_managing/" title="Бюджетування" class="md-tabs__link md-tabs__link--active">
+        Бюджетування
+      </a>
+    
+  </li>
+
+      
+        
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../custom-reports/" title="Построение отчетов" class="md-tabs__link">
+          Построение отчетов
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="../.." title="Библиотека с документацией и справочниками для Dynamics AX" class="md-nav__button md-logo">
+      
+        <i class="md-icon">library_books</i>
+      
+    </a>
+    Библиотека с документацией и справочниками для Dynamics AX
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/palikhov/Library-project-uken/" title="Перейти до репозиторію" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/Library-project-uken
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../.." title="Главная" class="md-nav__link">
+      Главная
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+    
+    <label class="md-nav__link" for="nav-2">
+      БИБЛИОТЕКА
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        БИБЛИОТЕКА
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Основные книги на русском library/books-russian.md" title="None" class="md-nav__link">
+      None
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../library/links/" title="Каталог интернет ссылок" class="md-nav__link">
+      Каталог интернет ссылок
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../library/ebooks/" title="Каталог книг" class="md-nav__link">
+      Каталог книг
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../library/books/" title="Каталог книг 2" class="md-nav__link">
+      Каталог книг 2
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../library/templates/" title="Шаблоны" class="md-nav__link">
+      Шаблоны
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../library/ms-dynamics-ax-2012-rus-book/" title="Microsoft Dynamics AX 2012 - справочник для профессионала" class="md-nav__link">
+      Microsoft Dynamics AX 2012 - справочник для профессионала
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+    
+    <label class="md-nav__link" for="nav-3">
+      Обучающие материалы
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        Обучающие материалы
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../education/example-table-names/" title="Як дізнатися структуру таблиці данних" class="md-nav__link">
+      Як дізнатися структуру таблиці данних
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../education/example-kpi-correct/" title="Як має працювати KPI" class="md-nav__link">
+      Як має працювати KPI
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../education/useful-links-mkdocs/" title="Допоміжні посилання при роботі з MKDocs" class="md-nav__link">
+      Допоміжні посилання при роботі з MKDocs
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../education/jokes/" title="Інколи треба й жартувати" class="md-nav__link">
+      Інколи треба й жартувати
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4">
+    
+    <label class="md-nav__link" for="nav-4">
+      Управління та облік по проектам
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        Управління та облік по проектам
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../project-management-accounting/" title="Модуль Управління та облік по проектам" class="md-nav__link">
+      Модуль Управління та облік по проектам
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../project-management-accounting/docs-project-management/" title="Корисні посилання на документацію" class="md-nav__link">
+      Корисні посилання на документацію
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../project-management-accounting/investments-program/" title="Опис моделі інвестиційної діяльності" class="md-nav__link">
+      Опис моделі інвестиційної діяльності
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../project-management-accounting/examples-markdown-extensions/" title="Приклади використання розмітки" class="md-nav__link">
+      Приклади використання розмітки
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../project-management-accounting/pm-modifications/" title="Модифікації програмного коду" class="md-nav__link">
+      Модифікації програмного коду
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../project-management-accounting/powerpoint-video-tutorials/" title="Запис відео з екрану за допомогою PowerPoint" class="md-nav__link">
+      Запис відео з екрану за допомогою PowerPoint
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../budget_managing/" title="Бюджетування" class="md-nav__link">
+      Бюджетування
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../treasury/education-cash-flow/" title="Складання та управлыння БРГК" class="md-nav__link">
+      Складання та управлыння БРГК
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-7" type="checkbox" id="nav-7">
+    
+    <label class="md-nav__link" for="nav-7">
+      Построение отчетов
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-7">
+        Построение отчетов
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../custom-reports/" title="Построение настраиваемых отчетов в Dynamics AX" class="md-nav__link">
+      Построение настраиваемых отчетов в Dynamics AX
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../dynamics-ax-addin-excel.md" title="Использование надстройки Microsoft Dynamics AX для Excel" class="md-nav__link">
+      Использование надстройки Microsoft Dynamics AX для Excel
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/palikhov/Library-project-uken/edit/master/docs/reporting/dynamics-ax-addin-excel.md" title="Редагувати сторінку" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                <p><a href="https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/about-using-the-microsoft-dynamics-ax-add-in-for-excel">Об использовании надстройки Microsoft Dynamics AX для Excel</a></p>
+<p><a href="https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/about-importing-data-from-microsoft-excel">Об импорт данных из Microsoft Excel</a></p>
+<p><a href="https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/update-microsoft-dynamics-ax-data-by-using-microsoft-excel">Обновление данных Microsoft Dynamics AX с помощью Microsoft Excel</a></p>
+<p><a href="https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/key-tasks-create-and-share-an-excel-template-by-using-the-office-add-ins">Основные задачи: Создание и совместное использование шаблона Excel с помощью надстроек Office</a></p>
+<h1 id="_1"><a class="headerlink" href="#_1" title="Permanent link">&para;</a></h1>
+<h1 id="microsoft-dynamics-ax-excel">Об использовании надстройки Microsoft Dynamics AX для Excel<a class="headerlink" href="#microsoft-dynamics-ax-excel" title="Permanent link">&para;</a></h1>
+<p>Можно экспортировать много форм, списков и отчетов из Microsoft Dynamics AX и Корпоративный портал для Microsoft Dynamics AX в Microsoft Excel. Если форма, список или отчет имеет кнопку  <strong>Экспорт в Microsoft Excel</strong>  на  <strong>Панель действий</strong> , можно экспортировать данные в Excel.</p>
+<p>Если системный администратор установил Надстройки Office для Microsoft Dynamics AX, вкладка  <strong>Dynamics AX</strong>  добавляется на ленту в Excel. Если ваша роль пользователя имеет доступ к данным в клиенте Microsoft Dynamics AX и разрешения на обновление экспортированных данных, можно обновить данные, экспортируемые из Microsoft Dynamics AX в Excel.</p>
+<p>Чтобы определить, имеет ли роль разрешение на обновление экспортированных данных, выполните следующие действия.</p>
+<ol>
+<li>Щелкните  <strong>Файл</strong>  \&gt;  <strong>Инструменты</strong>  \&gt;  <strong>Параметры</strong>.</li>
+<li>В форме  <strong>Параметры</strong>  на экспресс-вкладке  <strong>Разное</strong>  проверьте поле  <strong>Рабочая книга поддерживает обновление</strong>. Если установлено значение  <strong>При возможности</strong> , можно обновить данные, экспортированные в Excel.</li>
+<li>Подтвердите, что поле  <strong>Сеанс удаленного рабочего стола экспортируется в:</strong>  имеет значение  <strong>Клиент Excel</strong>. Если выбран этот параметр, можно создать файл Excel, который содержит экспортированные данные и сохранить файл на локальном компьютере.</li>
+</ol>
+<p>Свяжитесь с системным администратором для получения дополнительной информации об этих параметрах.</p>
+<p>Надстройка Office для Excel позволяет выполнять следующие задачи:</p>
+<ul>
+<li><strong>Обновление данных</strong>  — экспортируйте данные в Excel, а затем создайте графики, отчеты со сводными таблицами и другим условным форматированием, используя эти данные. Впоследствии, когда нужно будет просмотреть обновленные данные в отчетах или графиках со сводными таблицами, можно обновить лист Excel. В этом случае таблица, формулы и графики, созданные с использованием этих экспортированных данных, также обновляются.</li>
+<li><strong>Выберите поля для включения в экспортированные данные</strong>  — экспортируйте данные в Excel, а затем, в листе Excel, добавьте столбцы, содержащие соответствующие данные из других форм, списков, таблиц и отчетов.</li>
+</ul>
+<p>Примечание</p>
+<p>Данные, выбранные в дополнительных столбцах, должны быть связаны с экспортированными данными. Ваш системный администратор скажет вам, имеют ли данные, которые требуется добавить, ключ, связанный с экспортированными данными.</p>
+<ul>
+<li><strong>Изменение сопоставления полей</strong>  — измените имена экспортированных столбцов в Excel, но сохраните динамические связи с исходными данными. Например, список  <strong>Все клиенты</strong>  можно экспортировать в Excel. Измените заголовок первого столбца с  <strong>Название</strong>  на  <strong>Клиент</strong>. При обновлении списка заголовок столбца сохраняет свое название  <strong>Клиент</strong>.</li>
+<li><strong>Обновление данных в Microsoft Dynamics AX</strong>  — экспортируйте данные в Excel, измените данные и добавьте новые строки данных в лист Excel, а затем импортируйте обновленные данные в Microsoft Dynamics AX.</li>
+</ul>
+<h1 id="_2"><a class="headerlink" href="#_2" title="Permanent link">&para;</a></h1>
+<h1 id="microsoft-excel">Об импорт данных из Microsoft Excel<a class="headerlink" href="#microsoft-excel" title="Permanent link">&para;</a></h1>
+<p>Данные могут импортированы в Microsoft Dynamics AX с помощью различных инструментов и методов. Для использования некоторых инструментов и техник требуются солидные знания о системе Microsoft Dynamics AX. Ими должен пользоваться разработчик или системный администратор. Более подробную информацию об импорте данных с помощью инструментов разработчика можно найти в <a href="https://technet.microsoft.com/ru-ru/library/aa548629(v=ax.60)">Plan data import, export, and migration</a>.</p>
+<p>Также можно импортировать данные в Microsoft Dynamics AX с помощью Microsoft Excel. Используйте один из следующих методов:</p>
+<ul>
+<li>Создайте файл Excel, преобразуйте его в XML-файл, соответствующий именам полей, ограничениям по символам и другим требованиям Microsoft Dynamics AX. Данный способ должен использоваться только разработчиком или системным администратором, которому знакомы таблицы в базе данных Microsoft Dynamics AX.</li>
+<li>Экспортируйте форму, список или отчет в Excel, введите в файле данные для соответствующих столбцов, а затем импортируйте обновленные данные обратно в Microsoft Dynamics AX. Рекомендуется использовать этот метод для обновления существующих записей. Также советуем импортировать малые наборы данных. Дополнительные сведения об обновлении записей с помощью Excel см. в разделе</li>
+</ul>
+<h1 id="microsoft-dynamics-ax-microsoft-excel">Обновление данных Microsoft Dynamics AX с помощью Microsoft Excel<a class="headerlink" href="#microsoft-dynamics-ax-microsoft-excel" title="Permanent link">&para;</a></h1>
+<p>Надстройки Office для Microsoft Dynamics AX можно использовать для экспорта данных из Microsoft Dynamics AX в Microsoft Excel. После экспорта данных из форм, списков и отчетов Microsoft Dynamics AX в Excel, можно изменить информацию и импортировать данные обратно в Microsoft Dynamics AX для обновления записей.</p>
+<p>Примечание</p>
+<p>Для использования надстройки Office для Excel, необходимо установить следующие программы:</p>
+<ul>
+<li>Майкрософт Excel 2010 или Майкрософт Office Excel 2007</li>
+<li>Надстройки Office для Microsoft Dynamics AX. Дополнительной информацию об установке Надстройки Office, см. <a href="https://technet.microsoft.com/ru-ru/library/gg731844(v=ax.60)">Install Office Add-ins</a>.</li>
+</ul>
+<p>После экспорта данных из Microsoft Dynamics AX в книгу Excel, можно использовать средства и функции в Excel, чтобы работать более подробно с экспортированными данными. Например, можно отфильтровать данные, добавить форматы, и использовать отчет сводной таблицы для суммирования вашего запроса данных.</p>
+<h3 id="excel">Выбор данных, чтобы экспортировать в Excel<a class="headerlink" href="#excel" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Запустите Excel.</li>
+<li>На ленте на вкладке  <strong>Dynamics AX</strong>  щелкните  <strong>Соединение</strong> , выберите сервер Microsoft Dynamics AX, к которому необходимо подключиться, а затем нажмите  <strong>ОК</strong>.</li>
+<li>Щелкните  <strong>Добавить данные</strong> , установите флажок для запроса источника данных, который необходимо использовать, а затем щелкните  <strong>ОК</strong>.</li>
+<li>В левой области выберите значение заголовка по умолчанию, который включить в запросе данных.</li>
+</ol>
+<p>Можно выбрать заголовок и нажать кнопку  <strong>Вставить значение</strong>  или можно перетащить заголовок к соответствующей ячейке в листе Excel.</p>
+<p>Повторите этот шаг до тех пор, пока не будут добавлены все поля заголовка для этого запроса данных.</p>
+<ol>
+<li>В левой области выберите поле, которое включить в запросе данных.</li>
+</ol>
+<p>Можно выбрать поле и нажать кнопку  <strong>Вставить столбец</strong>  или можно перетащить поле к соответствующей ячейке в листе Excel.</p>
+<p>Повторите этот шаг до тех пор, пока не будут добавлены все поля для этого запроса данных.</p>
+<ol>
+<li>Щелкните  <strong>Выбор параметров</strong> , а затем выберите параметры для полей, которые выбраны для запроса данных.</li>
+</ol>
+<p>Например, чтобы создать запрос данных, чтобы просмотреть все проекты &quot;Время и расходы &quot;, выберите  <strong>Expense.Project.Project type = Время и расходы</strong>.</p>
+<ol>
+<li>Щелкните  <strong>Опубликовать данные</strong>.</li>
+</ol>
+<p>После сохранения книги, данные обновляются для последних проводок при следующем открытии данной книги.</p>
+<h2 id="_3">См. также<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
+<p><a href="https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/using-the-microsoft-dynamics-ax-add-in-for-excel">Использование надстройки Microsoft Dynamics AX для Excel</a></p>
+<p><a href="https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/integrating-microsoft-dynamics-ax-with-microsoft-office">Интеграция Microsoft Dynamics AX с Microsoft Office</a></p>
+<p><a href="http://go.microsoft.com/fwlink/?linkid=275089">Microsoft TechNet</a></p>
+<h1 id="excel-office">Основные задачи: Создание и совместное использование шаблона Excel с помощью надстроек Office<a class="headerlink" href="#excel-office" title="Permanent link">&para;</a></h1>
+<p>Microsoft Dynamics AX 2012 автоматически интегрируется с Microsoft Excel. Средства и функции Excel можно использовать для работы с данными в AX 2012. Можно экспортировать данные из AX 2012 в Excel, поработать с данными в этом приложении, а затем импортировать их назад в AX 2012.</p>
+<p>Книгу Excel можно создать в качестве шаблона, структурированного таким образом, чтобы он работал с таблицами и полями в AX 2012. Например, можно создать шаблон бюджетирования со списком финансовых счетов и аналитик из плана счетов организации в AX 2012. Затем можно отправить копию шаблона лицам, ответственным за подготовку бюджета. Если сведения о бюджете являются полными, их можно импортировать в AX 2012.</p>
+<p>Если системный администратор создает библиотеку шаблонов, шаблон Excel можно сохранить в библиотеке, а затем использовать повторно или скопировать на будущий бюджетный период.</p>
+<p>Данные, которые включаются в шаблон, ограничиваются разрешениями, связанными с назначенной пользователю ролью. Обычно, если определенные данные можно просматривать и изменять в клиенте Microsoft Dynamics AX, эти же данные можно просматривать, добавлять и изменять в шаблоне. Если шаблон является общим, другие пользователи также должны иметь разрешения на просмотр и изменение данных в этом шаблоне.</p>
+<p>Перед созданием шаблона системный администратор должен настроить личные параметры, чтобы можно было обновлять данные в шаблоне Excel. Дополнительные сведения о способах просмотра настроек для Excel см. в разделе <a href="https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/about-using-the-microsoft-dynamics-ax-add-in-for-excel">Об использовании надстройки Microsoft Dynamics AX для Excel</a>.</p>
+<p>Для изменения шаблона, который был создан другим лицом, необходимо сохранить копию шаблона на компьютере. При использовании шаблона, который был создан системным администратором, шаблон может содержать столбцы и строки, которые вы не можете изменять. Если необходимо изменить макет шаблона, обратитесь к лицу, создавшему шаблон.</p>
+<h2 id="_4">Что вы хотите сделать?<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
+<p>Создание шаблона Excel</p>
+<p>Совместное использование шаблона Excel</p>
+<p>Найти связанные задачи</p>
+<h2 id="excel_1">Создание шаблона Excel<a class="headerlink" href="#excel_1" title="Permanent link">&para;</a></h2>
+<ol>
+<li>На странице списка в Microsoft Dynamics AX, на  <strong>области действий</strong>  щелкните  <strong>Экспорт в Excel</strong>.</li>
+<li>Введите имя файла для книги Excel.</li>
+</ol>
+<p>Внимание!</p>
+<p>При выборе существующего файла, выполняется перезапись содержимого.</p>
+<ol>
+<li>Сохраните файл как шаблон Excel на локальном компьютере.</li>
+<li>В Excel в ленте на вкладке  <strong>Dynamics AX</strong>  выберите поля, которые требуется включить в книгу.</li>
+</ol>
+<p>1.
+  1. Щелкните  <strong>Выбор полей</strong> , выберите поле для добавления, а затем нажмите кнопку  <strong>\&gt;</strong>. Чтобы выбрать несколько полей, удерживайте клавишу CTRL, выберите все поля, а затем нажмите кнопку  <strong>\&gt;</strong>.</p>
+<p>Если вы хотите, чтобы шаблон использовал поля, которые не отображаются в левой панели, щелкните  <strong>Новые данные</strong>  \&gt;  <strong>Добавление таблиц</strong>.</p>
+<p>Начиная с Накопительный пакет обновления 7 для Microsoft Dynamics AX 2012 R2, при добавлении финансовых аналитик доступны только аналитики, указанные в форме  <strong>Конфигурация финансовой аналитики для интеграции приложений</strong>.</p>
+<p>1.
+  1. Для добавления объектов на панели  <strong>Выбранные объекты</strong>  выберите таблицу и нажмите кнопку  <strong>\&gt;</strong>. Чтобы выбрать несколько таблиц, удерживайте клавишу CTRL, выберите все таблицы, а затем нажмите кнопку  <strong>\&gt;</strong>.
+  2. Чтобы удалить все ранее выбранные объекты, нажмите кнопку  <strong>\&lt;\&lt;</strong>.
+2. В левой области выберите поля, которые нужно добавить в шаблон.
+3. Сохраните файл на компьютере. Если системный администратор создал библиотеку шаблонов для AX 2012, шаблон можно отправить системному администратору для сохранения в библиотеке.</p>
+<h2 id="excel_2">Совместное использование шаблона Excel<a class="headerlink" href="#excel_2" title="Permanent link">&para;</a></h2>
+<p>При создании книги Excel для импорта данных в AX 2012 книгу можно сохранить как шаблон, а затем совместно использовать шаблон с другими сотрудниками. Например, организация заполняет годовой бюджет по подразделениям, и подразделения настроены в AX 2012 как финансовые аналитики. Можно создать шаблон бюджетирования со списком финансовых счетов, а затем сделать копию шаблона книги для каждого подразделения или аналитики. После этого копию шаблона книги можно использовать для каждого подразделения для подготовки бюджета подразделения.</p>
+<p>После создания и сохранения книги на локальном компьютере системный администратор может сохранить ее в библиотеке шаблонов или другом расположении совместного пользования файлами.</p>
+<p>При использовании Microsoft Dynamics AX 2012 R3 или накопительное обновление 6 либо более поздней версии для AX 2012 R2 системный администратор может указать в качестве расположения для экспорта папку Майкрософт Office 365 SharePoint. После сохранения шаблона в папке SharePoint Online можно открыть шаблон из папки SharePoint при использовании версии Office 365 Excel. Для определения расположения, настроенного для экспортированных файлов, щелкните  <strong>Файл</strong>  \&gt;  <strong>Сервис</strong>  \&gt;  <strong>Параметры</strong>. Расположение отображается в форме  <strong>Параметры</strong>  на вкладке  <strong>Общие</strong>  в разделе  <strong>Разное</strong>  в поле  <strong>Расположение экспорта</strong>.</p>
+<p><a href="https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/using-the-microsoft-dynamics-ax-add-in-for-excel">Использование надстройки Microsoft Dynamics AX для Excel</a></p>
+<p><a href="https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/about-importing-data-from-microsoft-excel">Об импорт данных из Microsoft Excel</a></p>
+<p><a href="https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/set-up-integration-with-microsoft-office-add-ins">Настройка интеграции с надстройками Microsoft Office</a></p>
+<p><a href="https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/set-up-financial-dimensions-for-integrating-applications-excel-and-management-reporter">Настройка финансовых аналитик для интеграции приложений (Excel и Management Reporter)</a></p>
+<h1 id="excel-management-reporter">Настройка финансовых аналитик для интеграции приложений (Excel и Management Reporter)<a class="headerlink" href="#excel-management-reporter" title="Permanent link">&para;</a></h1>
+<p>В этом разделе показано, как определить финансовые аналитики, доступные при поиске в Microsoft Excel при использовании Надстройки Office для Microsoft Dynamics AX, и порядок отображения финансовых аналитик в Management Reporter для Microsoft Dynamics ERP. Эту функцию можно использовать для добавления финансовых аналитик в лист бюджетного планирования в Excel или для разработки финансовых отчетов в Management Reporter.</p>
+<p>В данной процедуре описываются функциональные возможности, доступные в Microsoft Dynamics AX 2012 R3 или накопительное обновление 7 либо более поздней версии для AX 2012 R2.</p>
+<h2 id="_5">Необходимые условия<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h2>
+<p>В следующей таблице показаны обязательные компоненты, которые должны быть подготовлены до начала работы.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Категория</strong></th>
+<th><strong>Необходимые условия</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Настройка</td>
+<td>Настройка финансовых аналитик и значений финансовых аналитик. Дополнительные сведения см. в следующих разделах:</td>
+</tr>
+<tr>
+<td>- <a href="https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/create-a-financial-dimension">Создать финансовую аналитику</a></td>
+<td></td>
+</tr>
+<tr>
+<td>- <a href="https://technet.microsoft.com/ru-ru/library/hh242667(v=ax.60)">Значения финансовой аналитики (форма)</a></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="1-office">1. Настройка атрибутов финансовых аналитик для Надстройки Office<a class="headerlink" href="#1-office" title="Permanent link">&para;</a></h2>
+<p>Эта процедура используется для определения финансовых аналитик, доступных при поиске в Надстройки Office для Microsoft Dynamics AX. Дополнительные сведения см. в разделе <a href="https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/using-the-microsoft-dynamics-ax-add-in-for-excel">Использование надстройки Microsoft Dynamics AX для Excel</a>.</p>
+<p>Чтобы настроить атрибуты финансовых аналитик для Надстройки Office, выполните следующие действия.</p>
+<ol>
+<li>Щелкните  <strong>Главная книга</strong>  \&gt;  <strong>Настройка</strong>  \&gt;  <strong>Финансовые аналитики</strong>  \&gt;  <strong>Конфигурация финансовой аналитики для интеграции приложений</strong>.</li>
+<li>В области  <strong>Надстройки Office</strong>  выберите финансовые аналитики, которые могут использоваться в качестве источников данных документов в приложениях, таких как Microsoft Excel.</li>
+</ol>
+<p>Выбранные аналитики будут доступны при поиске в Excel, если финансовые аналитики активны. Финансовая аналитика активна, если системная дата Microsoft Dynamics AX находится в диапазоне, определенном полями  <strong>Активен с</strong>  и  <strong>Активен по</strong>  в форме  <strong>Значения финансовых аналитик</strong>. Если финансовая аналитика неактивна, она не отображается при поиске в Excel.</p>
+<ol>
+<li>Нажмите кнопку  <strong>Закрыть</strong>. Создается пользовательский запрос, затем создается и активируется пользовательский источник данных документа для каждой выбранной финансовой аналитики. Если запрос с именем запроса по умолчанию уже существует для финансовой аналитики, выводится сообщение, и можно ввести уникальное имя запроса.</li>
+<li>Необязательно: убедитесь, что источники данных документа были созданы. Щелкните  <strong>Управление организацией</strong>  \&gt;  <strong>Настройка</strong>  \&gt;  <strong>Управление документами</strong>  \&gt;  <strong>Источники данных документа</strong>.</li>
+</ol>
+<h2 id="2-management-reporter">2. Настройка атрибутов финансовых аналитик для Management Reporter<a class="headerlink" href="#2-management-reporter" title="Permanent link">&para;</a></h2>
+<p>Эта процедура используется для определения порядка отображения финансовых аналитик в Management Reporter. Дополнительные сведения о Management Reporter см. в разделе о <a href="http://go.microsoft.com/fwlink/?linkid=324762">Management Reporter для Microsoft Dynamics ERP</a>.</p>
+<p>Чтобы настроить атрибуты финансовых аналитик для Management Reporter, выполните следующие действия.</p>
+<ol>
+<li>Щелкните  <strong>Главная книга</strong>  \&gt;  <strong>Настройка</strong>  \&gt;  <strong>Финансовые аналитики</strong>  \&gt;  <strong>Конфигурация финансовой аналитики для интеграции приложений</strong>.</li>
+<li>В области  <strong>Management Reporter</strong>  разместите атрибуты аналитик в том порядке, в котором они должны отображаться в Management Reporter.</li>
+</ol>
+<p>При добавлении новых финансовых аналитик после определения порядка в этой форме аналитики добавляются в конец списка по умолчанию. Если аналитики удаляются из Microsoft Dynamics AX, они удаляются из списка в Management Reporter.</p>
+<p><a href="https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/create-a-financial-dimension">Создать финансовую аналитику</a></p>
+<p><a href="https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/setting-up-the-chart-of-accounts">Настройка плана счетов</a></p>
+<p><a href="https://docs.microsoft.com/ru-ru/dynamicsax-2012/appuser-itpro/setting-up-traditional-financial-statements">Настройка стандартных финансовых отчетов</a></p>
+<h2 id="_6">Техническая информация для системных администраторов<a class="headerlink" href="#_6" title="Permanent link">&para;</a></h2>
+<p>При отсутствии доступа к страницам, которые необходимы для выполнения этой задачи, свяжитесь с системным администратором и предоставьте сведения, представленные в следующей таблице.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Категория</strong></th>
+<th><strong>Необходимые условия</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Конфигурационные ключи</strong></td>
+<td>Для этой задачи конфигурационный ключ не требуется.</td>
+</tr>
+<tr>
+<td><strong>Роли безопасности и привилегии</strong></td>
+<td>Чтобы настроить финансовые аналитики для интеграции приложений, необходимо быть членом роли безопасности, включающей следующие привилегии.</td>
+</tr>
+<tr>
+<td>- <strong>Ведение обработки документа</strong>  (DocumentHandlingMaintain)</td>
+<td></td>
+</tr>
+<tr>
+<td>- <strong>Просмотреть финансовые аналитики</strong>  (DimensionDetailsView)</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="_7">См. также<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h2>
+<p><a href="https://technet.microsoft.com/ru-ru/library/hh209534(v=ax.60)">Финансовый аналитик (форма)</a></p>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Copyright &copy; 2018 - 2019 Антон Паліхов в межах своїх знань та результатів
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    <link rel="stylesheet" href="../../assets/fonts/font-awesome.css">
+    
+      <a href="https://github.com/palikhov" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://twitter.com/AVPalikhov" class="md-footer-social__link fa fa-twitter"></a>
+    
+      <a href="https://linkedin.com/in/avpalikhov" class="md-footer-social__link fa fa-linkedin"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/application.9e1f3b71.js"></script>
+      
+        
+        
+          
+          <script src="../../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+          
+            
+              
+              
+                <script src="../../assets/javascripts/lunr/lunr.ru.js"></script>
+              
+            
+          
+            
+              
+              
+            
+          
+          
+            <script src="../../assets/javascripts/lunr/lunr.multi.js"></script>
+          
+        
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"../.."}})</script>
+      
+        <script src="../../extra.js"></script>
+      
+    
+    
+      
+    
+  </body>
+</html>
