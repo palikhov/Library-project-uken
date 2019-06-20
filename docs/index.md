@@ -13,11 +13,7 @@ date: 2018-12-12
 
 ## Важливі посилання
 
-[Область команди ERP проекту на Sharepoint](https://portal.ua.energy/sites/intranet/teamsites/erp/Documents/Forms/AllItems.aspx)
 
-[Проект впровадження ERP в MS Project Server](https://project.ua.energy/)
-
-## Документація по даному сайту
 
 ### Загальний опис
 
