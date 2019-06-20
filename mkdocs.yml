@@ -11,7 +11,7 @@ copyright: 'Copyright &copy; 2018 - 2019 Антон Паліхов в межах
 nav:
     - Главная: index.md
     - БИБЛИОТЕКА:
-        - Основные книги на русском library/books-russian.md  
+        - Основные книги на русском: library/books-russian.md  
         - Каталог интернет ссылок: library/links.md
         - Каталог книг: library/ebooks.md
         - Каталог книг 2: library/books.md
@@ -33,7 +33,8 @@ nav:
     - Складання та управлыння БРГК: treasury/education-cash-flow.md
     - Построение отчетов: 
         - Построение настраиваемых отчетов в Dynamics AX: reporting/custom-reports.md
-        - Использование надстройки Microsoft Dynamics AX для Excel: dynamics-ax-addin-excel.md
+        - Использование надстройки Microsoft Dynamics AX для Excel: reporting/dynamics-ax-addin-excel.md
+    - 
 
 # Link as comment before release 
 
