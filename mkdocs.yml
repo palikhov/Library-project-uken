@@ -10,8 +10,7 @@ copyright: 'Copyright &copy; 2018 - 2019 Team Awesome'
 
 nav:
     - Головна: index.md
-    - Статус виконання робіт: 
-         - Поточний звіт за 4й квартал 2018: status/report-4-2018.md      
+  
     - Бібліотека проекту:
         - ОСНОВНІ КНИЖКИ РОСІЙСЬКОЮ: library/books-russian.md  
         - Каталог інтернет посилань: library/links.md
