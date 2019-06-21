@@ -1,12 +1,16 @@
 ---
-title: Навчальні матеріали по напряму: оперативне планування БРГК 
+title: Навчальні матеріали по напряму: СОСТАВЛЕНИЕ И УПРАВЛЕНИЕ БДДС 
 
-summary: FIN.BDG.03 Складання та управління БРГК на місяць
+summary: ОПЕРАТИВНОЕ УПРАВЛЕНИЕ БЮДЖЕТОМ ДЕНЕЖНЫХ СРЕДСТВ
 
 authors:
     - Anton Palikhov
-
-date: 2018-01-08
+date: 2018-21-06
 ---
 
-текст буде пізніше
+## ВИДЕО 1. 
+
+[СОСТАВЛЕНИЕ И УПРАВЛЕНИЕ БДДС](https://www.youtube.com/watch?v=FPH3CKMpqtM) - Управление денежными средствами в Dynamics AX 2012 R3
+
+ИЛИ ИСПОЛЬЗУЙТЕ [АЛЬТЕНАТИВНЫЙ СПОСОБ](
+https://portal.ua.energy/personal/palikhov_av/Documents/DYNAMICS_AX2012_CASH%20FLOW%20AND%20TREASURY.mp4)

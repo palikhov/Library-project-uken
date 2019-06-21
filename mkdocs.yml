@@ -11,26 +11,28 @@ copyright: 'Copyright &copy; 2018 - 2019 Антон Паліхов в межах
 nav:
     - Главная: index.md
     - БИБЛИОТЕКА:
-        - Основные книги на русском: library/books-russian.md  
+        - ДОСТУП К ОПУБЛИКОВАННЫМ КНИГАМ: library/index.md
         - Каталог интернет ссылок: library/links.md
         - Каталог книг: library/ebooks.md
         - Каталог книг 2: library/books.md
         - Шаблоны: library/templates.md
         - Microsoft Dynamics AX 2012 - справочник для профессионала: library/ms-dynamics-ax-2012-rus-book.md
+        - Основные книги на русском: library/books-russian.md
     - Обучающие материалы:
+        - ДОСТУП К КУРСАМ ПО EXCEL И DYNAMICS AX: education/index.md
         - Як дізнатися структуру таблиці данних: education/example-table-names.md
         - Як має працювати KPI: education/example-kpi-correct.md
         - Допоміжні посилання при роботі з MKDocs: education/useful-links-mkdocs.md
         - Інколи треба й жартувати: education/jokes.md
-    - Управління та облік по проектам:
+    - Управление и учет по проектам:
         - Модуль Управління та облік по проектам: project-management-accounting\index.md
         - Корисні посилання на документацію: project-management-accounting/docs-project-management.md
         - Опис моделі інвестиційної діяльності: project-management-accounting/investments-program.md 
         - Приклади використання розмітки: project-management-accounting/examples-markdown-extensions.md
         - Модифікації програмного коду: project-management-accounting/pm-modifications.md
         - Запис відео з екрану за допомогою PowerPoint: project-management-accounting/powerpoint-video-tutorials.md
-    - Бюджетування: budget_managing/index.md
-    - Складання та управлыння БРГК: treasury/education-cash-flow.md
+    - БЮДЖЕТИРОВАНИЕ: budget_managing/index.md
+    - СОСТАВЛЕНИЕ И УПРАВЛЕНИЕ БДДС: treasury/education-cash-flow.md
     - Построение отчетов: 
         - Построение настраиваемых отчетов в Dynamics AX: reporting/custom-reports.md
         - Использование надстройки Microsoft Dynamics AX для Excel: reporting/dynamics-ax-addin-excel.md
