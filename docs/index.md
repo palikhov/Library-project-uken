@@ -13,7 +13,7 @@ https://portal.ua.energy/personal/palikhov_av/Documents/DYNAMICS_AX2012_CASH%20F
 
 ## Важливі посилання
 
-
+Важно. Посылаю.
 
 ### Загальний опис
 
